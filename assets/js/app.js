@@ -25,10 +25,4 @@ let primaryMenu = document.querySelector('.s-primary-menu');
            $('.o-panel--heaher').removeClass('fixed');
         }
      });
-
-
-
-
-
-
 }(window.jQuery);
